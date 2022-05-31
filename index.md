@@ -25,3 +25,6 @@ In this lab I had to initialize my lab folder as a Node.js project and set up gi
 
 ### Files from Lab 4!
 
+[ss1](hellofrom.png)
+[ss2](hellobp.png)
+[ss3](hellog.png)
