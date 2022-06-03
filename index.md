@@ -20,7 +20,6 @@ Lab Goals and Outcomes:
 - Chrome
 - Fastify Node.js web server
 - Node Package Manager
-- Git Repo
 - Terminal
 
 ### What I Learned:
